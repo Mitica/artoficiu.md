@@ -76,7 +76,7 @@
     "nodemailer": "^4.4.2",
     "object-hash": "^1.2.0",
     "ournet.logger": "^0.1.0",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^3.0.1",
     "sticky-sidebar": "^3.3.1",
     "turndown": "^4.0.1",
     "urlset": "^0.6.1",
