@@ -73,7 +73,7 @@
     "moment-timezone": "^0.5.14",
     "ms": "^2.1.1",
     "node-fetch": "^2.6.1",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.4.16",
     "object-hash": "^1.2.0",
     "ournet.logger": "^0.1.0",
     "pug": "^2.0.0-rc.4",
